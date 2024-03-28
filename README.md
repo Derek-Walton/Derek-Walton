@@ -20,7 +20,7 @@ I am a Undergraduate Software Engineer at the University of Portsmouth, with a l
 * 🚀  I'm currently working on my Portfolio and [Worldskills UK Web Development Competition](http://https://www.worldskillsuk.org/competitions/web-development/)
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [derekwalton19@gmail.com](mailto:derekwalton19@gmail.com)
-*   🧠  I'm currently learning Dart and JavaScript
+*   🧠  I'm currently learning Dart, JavaScript and PHP
 
 
 
